@@ -27,6 +27,6 @@ collapses www., www1., etc subdomains from pathnames. for standardization, if /w
     console.log(result2);
     // my-domain.org
 
-    var result2 = sc('mail.my-domain.org');
-    console.log(result2);
+    var result3 = sc('mail.my-domain.org');
+    console.log(result3);
     // mail.my-domain.org
