@@ -5,6 +5,8 @@ collapses www., www1., etc subdomains from pathnames. for standardization, if /w
 [![Build Status](https://travis-ci.org/Interlincx/subdomain-collapse.png)](https://travis-ci.org/Interlincx/subdomain-collapse)  
 [![NPM](https://nodei.co/npm/subdomain-collapse.png?downloads=true)](https://nodei.co/npm/subdomain-collapse/)
 
+[![testling badge](https://ci.testling.com/Interlincx/subdomain-collapse.png)](https://ci.testling.com/Interlincx/subdomain-collapse)
+
 # install
 
     npm install subdomain-collapse
